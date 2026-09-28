@@ -173,7 +173,7 @@ language codes, and converting country codes.
 
 ### The GUI (Task D)
 
-- [ ] **As a team, complete the ``TODO Task D``**
+- [x] **As a team, complete the ``TODO Task D``**
 
 For the improved UI, you'll notice that there is a dropdown menu of languages and a scrollable list of country names.
 Each time one of these items is selected, the UI updates to show the translation. The new components used in the UI
@@ -196,7 +196,7 @@ another pair gets the `JList` of country names added.
 > to use `JList` for the country names and languages that would be fine too.
 
 ## Demo
- - [ ] **Once your team's code is fully functional, you can
+ - [x] **Once your team's code is fully functional, you can
 demo your program to your TA to verify that your team has completed this lab activity.**
 
 ---
