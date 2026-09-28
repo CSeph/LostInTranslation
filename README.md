@@ -152,7 +152,7 @@ the program works purely in terms of country codes and language codes as demonst
 contain. Notice that each of the `.txt` files contains a header row at the top,
 which is ignored when reading the data.
 
-- [ ] **As a team, complete the `TODO Task 1` in `CanadaTranslator` to get familiar with
+- [X] **As a team, complete the `TODO Task 1` in `CanadaTranslator` to get familiar with
   the data we are working with in this activity.**
 
 Once your team completes this task, you should be able to run the GUI and translate
@@ -164,7 +164,7 @@ to the two new languages that were implemented!
 These three sets of TODO tasks relate to the actual translation, converting
 language codes, and converting country codes.
 
-- [ ] **Divide up these three tasks across your team and complete them. As needed,
+- [X] **Divide up these three tasks across your team and complete them. As needed,
   you can work in pairs or further subdivide these tasks.**
 
 > Once these are implemented, the provided tests should all pass.
